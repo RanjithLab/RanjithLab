@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @RanjithLab
-- 👀 I’m interested in Biosciences research
-- 🌱 I’m currently learning Chromatin Biology
-- 💞️ I’m looking to collaborate on Computational Biology
-- 📫 How to reach me : @ranjthpa on twitter, for example. 
+- 👋 Hi, We are @RanjithLab
+- 👀 We are interested in Biosciences research.
+- 💞️ We are looking to collaborate on Computational Biology
+- 📫 How to reach us : @ranjthpa on twitter, for example. 
 
 <!---
 RanjithLab/RanjithLab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
